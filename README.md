@@ -278,8 +278,9 @@
         <h2 style="color: #d6336c;">Conclusion</h2>
         <p>An <strong>Attendance Calculator</strong> is a valuable tool for students and employees. It ensures they meet attendance requirements and helps in proper planning to avoid attendance shortages.</p>
 
-        <p style="text-align: center; font-size: 14px; color: #555; margin-top: 20px;">
-            &copy; 2025 <a href="https://www.calculator360.info" style="color: #d6336c; text-decoration: none;" target="_blank" rel="dofollow">Calculator360.info</a>. All Rights Reserved.
-        </p>
+        <div class="footer">
+    <p>&copy; <script>document.write(new Date().getFullYear())</script> Mini web Tool. All Rights Reserved. | 
+    Powered by <a href="https://www.miniwebtool.live/" target="_blank">MiniWebTool</a></p>
+</div>
 </body>
 </html>
